@@ -9,5 +9,4 @@ The 2d version was intended to be implemented to a baseline by ai then fixed and
 The 3d version will be implemented from scratch for unity using the same physics and theoretical approach as the 2d version and this will serve as a piece of reference material for the 3d implementation.
 
 ---
-
-https://github.com/user/repo/blob/main/include/XPBD(circle).mp4
+https://github.com/masonmm3/SoftBodySimExploration/blob/master/include/XPBD(circle).mp4
