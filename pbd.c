@@ -9,6 +9,8 @@
  *   R              - reset simulation
  *   G              - toggle gravity
  *   SPACE          - pause/unpause
+ *
+ * my compiles commands. gcc pbd.c -o pbd.exe -I C:\raylib\raylib\src -L C:\raylib\raylib\src -lraylib -lopengl32 -lgdi32 -lwinmm -D__MSVCRT_VERSION__=0x0700
  */
 
 #include "raylib.h"
